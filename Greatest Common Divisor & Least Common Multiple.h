@@ -1,0 +1,11 @@
+//
+// Created by violinwang on 2021/1/5.
+//
+
+#ifndef MAIN_5_C_GREATEST_COMMON_DIVISOR_LEAST_COMMON_MULTIPLE_H
+#define MAIN_5_C_GREATEST_COMMON_DIVISOR_LEAST_COMMON_MULTIPLE_H
+
+void GCD_LCM();
+int max_common_calculate (int ,int );
+
+#endif //MAIN_5_C_GREATEST_COMMON_DIVISOR_LEAST_COMMON_MULTIPLE_H
